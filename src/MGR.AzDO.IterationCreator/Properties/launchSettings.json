@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "run": {
+      "commandName": "Project",
+      "commandLineArgs": "--project-name Mozzaik365 --first-day-of-sprint Friday --root-iteration-path Mozzaik365 --team Platform --team MODA --team Mozzaik --year 2023 --account-uri https://dev.azure.com/mozzaik365 --pat d2t2j74eixlf6vjou6ip53maiukjkbjxfa54syden7ckszbmdhsa"
+    },
+    "help": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    }
+  }
+}
